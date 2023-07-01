@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🧑🏻‍💻 My name is Rahul Wadhwa, I'm a Software Developer from India.  
+🧑🏻‍💻 My name is Dev Madaan, I'm a Software Developer from India.  
 🔭 I like to work on hard problems where technology can have a long-term meaningful impact.  
 📩 Do you need an application? Send an email on rahulwadhwa238@gmail.com
 
@@ -30,5 +30,5 @@
 
 ## 📫 How to reach me
 
-[![](https://img.shields.io/badge/-@rahulwadhwa238-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff)](https://www.linkedin.com/in/rahulwadhwa238/)
-[![](https://img.shields.io/badge/-rahulwadhwa238@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=fff)](mailto:rahulwadhwa238@gmail.com) 
+[![](https://img.shields.io/badge/-@rahulwadhwa238-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff)](https://www.linkedin.com/in/dev-madaan-42520911a/)
+[![](https://img.shields.io/badge/-rahulwadhwa238@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=fff)](mailto:devmadan30@gmail.com) 
