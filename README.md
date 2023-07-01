@@ -1,3 +1,6 @@
+
+![cover](cover.png)
+
 ## Hi there 👋
 
 🧑🏻‍💻 My name is Dev Madaan, I'm a Software Developer from India.  
