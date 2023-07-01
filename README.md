@@ -2,7 +2,7 @@
 
 🧑🏻‍💻 My name is Dev Madaan, I'm a Software Developer from India.  
 🔭 I like to work on hard problems where technology can have a long-term meaningful impact.  
-📩 Do you need an application? Send an email on rahulwadhwa238@gmail.com
+📩 Do you need an application? Send an email on devmadan30@gmail.com
 
 
 <br />
