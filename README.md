@@ -30,5 +30,5 @@
 
 ## 📫 How to reach me
 
-[![](https://img.shields.io/badge/-@rahulwadhwa238-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff)](https://www.linkedin.com/in/dev-madaan-42520911a/)
-[![](https://img.shields.io/badge/-rahulwadhwa238@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=fff)](mailto:devmadan30@gmail.com) 
+[![](https://img.shields.io/badge/-@devmadaan-0A66C2?style=flat-square&logo=LinkedIn&logoColor=ffffff)](https://www.linkedin.com/in/dev-madaan-42520911a/)
+[![](https://img.shields.io/badge/-devmadan30@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=fff)](mailto:devmadan30@gmail.com) 
